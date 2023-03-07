@@ -1,5 +1,5 @@
 # AVA---Avinx-Virtual-Assistant - A COLLABORATION
-(*Note: This is not my idea or my brainchild.) I was approached by a friend a month ago to build the interface for his project, a virtual assistant named AVA (short for 'Avinx Virtual Assistant'). This is a progress I've made to making her a reality. You can check out his page and other works at https://github.com/56radius. 
+(*Note: This is not my idea or my brainchild.) I was approached by a friend a month ago to build the interface for his project, a virtual assistant named AVA (short for 'Avinx Virtual Assistant'). This is the progress I've made to making her a reality. You can check out his page and other works at https://github.com/56radius. 
 
 It is also worth noting that this is subject to change later in the near future, as this project will come closer and closer to the final 'completed' project. These are merely the first drafts that I'm sharing with you and there's definitely plenty of work to be done.
 
